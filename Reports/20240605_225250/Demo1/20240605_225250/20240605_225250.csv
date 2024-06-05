@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo1,,,,2024-06-05 22:52:54,2024-06-05 22:53:02,8.776s,FAILED
+,,,,,,,
+Test Cases/Login,,,,2024-06-05 22:53:01,2024-06-05 22:53:02,1.617s,FAILED
+openBrowser(URL_GENPRIO),,,,2024-06-05 22:53:01,2024-06-05 22:53:02,1.587s,FAILED
