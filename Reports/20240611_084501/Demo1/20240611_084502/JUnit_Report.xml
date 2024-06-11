@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Demo1" time="7.795" tests="1" failures="0" errors="0">
+   <testsuite name="Demo1" tests="1" failures="0" errors="0" time="7.795" skipped="0" timestamp="2024-06-11 08:45:09" hostname="LENOVO - 172.30.64.159" id="Test Suites/Demo1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240611_084501\\Demo1\\20240611_084502"/>
+         <property name="logFiles" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240611_084501\\Demo1\\20240611_084502\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - 172.30.64.159"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="10.16.115.45"/>
+         <property name="sessionId" value="f36e314845d9f69c4627c907511d9794"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="7.434" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[2024-06-11 08:45:09 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+2024-06-11 08:45:10 - [TEST_STEP][PASSED] - openBrowser(URL_GENPRIO): Browser is opened with url: 'https://genprio.xl.co.id/login'
+
+2024-06-11 08:45:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-06-11 08:45:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-06-11 08:45:14 - [MESSAGE][PASSED] - Browser is opened with url: 'https://genprio.xl.co.id/login'
+
+2024-06-11 08:45:14 - [TEST_STEP][PASSED] - setText(findTestObject("textfieldUsername"), "testing1"): Text 'testing1' is set on object 'Object Repository/textfieldUsername'
+
+2024-06-11 08:45:15 - [MESSAGE][PASSED] - Text 'testing1' is set on object 'Object Repository/textfieldUsername'
+
+2024-06-11 08:45:15 - [TEST_STEP][PASSED] - clearText(findTestObject("textfieldUsername")): Text of object 'Object Repository/textfieldUsername' is cleared
+
+2024-06-11 08:45:16 - [MESSAGE][PASSED] - Text of object 'Object Repository/textfieldUsername' is cleared
+
+2024-06-11 08:45:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-06-11 08:45:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-06-11 08:45:09 - [TEST_SUITE][PASSED] - Demo1: Test Cases/Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

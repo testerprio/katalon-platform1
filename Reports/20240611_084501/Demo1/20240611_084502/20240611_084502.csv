@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo1,Chrome 125.0.0.0,,,2024-06-11 08:45:09,2024-06-11 08:45:17,7.795s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 125.0.0.0,,,2024-06-11 08:45:09,2024-06-11 08:45:17,7.434s,PASSED
+openBrowser(URL_GENPRIO),Chrome 125.0.0.0,,,2024-06-11 08:45:10,2024-06-11 08:45:14,3.983s,PASSED
+"setText(findTestObject(""textfieldUsername""), ""testing1"")",Chrome 125.0.0.0,,,2024-06-11 08:45:14,2024-06-11 08:45:15,1.818s,PASSED
+"clearText(findTestObject(""textfieldUsername""))",Chrome 125.0.0.0,,,2024-06-11 08:45:15,2024-06-11 08:45:16,0.408s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,2024-06-11 08:45:16,2024-06-11 08:45:17,0.789s,PASSED

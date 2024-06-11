@@ -21,3 +21,7 @@ WebUI.openBrowser(GlobalVariable.URL_GENPRIO)
 
 WebUI.setText(findTestObject('textfieldUsername'), 'testing1')
 
+WebUI.clearText(findTestObject('textfieldUsername'))
+
+WebUI.closeBrowser()
+
