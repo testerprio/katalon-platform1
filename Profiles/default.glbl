@@ -9,4 +9,9 @@
       <initValue>'https://genprio.xl.co.id/login'</initValue>
       <name>URL_GENPRIO</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://prioritas.xl.co.id/'</initValue>
+      <name>URL_Prioritas</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

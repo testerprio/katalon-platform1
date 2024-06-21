@@ -1,0 +1,46 @@
+{
+  "keywordFileContentHash": "D4892FE70C637BD9C31A84BC30DD799E",
+  "keywordClasses": [
+    {
+      "name": "Keywords.OtherKeyword",
+      "keywordMethods": [
+        {
+          "name": "selectObjectBasedOnIndex",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "idx",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "allowAllertPermission",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

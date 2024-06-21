@@ -1,0 +1,48 @@
+{
+  "keywordFileContentHash": "C2A6E6ACF1B504C6261A8BF6D197B97D",
+  "keywordClasses": [
+    {
+      "name": "OtherKeyword",
+      "keywordMethods": [
+        {
+          "name": "selectObjectBasedOnIndex",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "idx",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * select webElement based on index\r\n\t * @param testObject list of webElement\r\n\t * @param index \r\n\t * @return select the webElement\r\n\t */"
+        },
+        {
+          "name": "allowAllertPermission",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Allow alert permission\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

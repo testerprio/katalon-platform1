@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration-USIM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5c19aae-d427-44aa-900a-4fe7d6c9e99d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b4f3f93b-90e1-4b13-aae0-c6f30cc706b6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/PrioCustomer</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b4f3f93b-90e1-4b13-aae0-c6f30cc706b6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>08693a1b-ecc7-4e1e-b2b0-8ee2b1bd1398</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b4f3f93b-90e1-4b13-aae0-c6f30cc706b6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Contact Number</value>
+      <variableId>80d9adec-3f94-4e06-bce6-ff6f4208ac66</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b4f3f93b-90e1-4b13-aae0-c6f30cc706b6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>659a8989-6210-449b-8b2b-3d914aa0fe00</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nama pelanggan'</defaultValue>
+      <description></description>
+      <id>08693a1b-ecc7-4e1e-b2b0-8ee2b1bd1398</id>
+      <masked>false</masked>
+      <name>custName</name>
+   </variable>
+   <variable>
+      <defaultValue>'08789234209'</defaultValue>
+      <description></description>
+      <id>80d9adec-3f94-4e06-bce6-ff6f4208ac66</id>
+      <masked>false</masked>
+      <name>contactNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'testing@gmail.com'</defaultValue>
+      <description></description>
+      <id>659a8989-6210-449b-8b2b-3d914aa0fe00</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
