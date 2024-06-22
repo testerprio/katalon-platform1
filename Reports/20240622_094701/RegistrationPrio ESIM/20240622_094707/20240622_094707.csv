@@ -1,0 +1,59 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+RegistrationPrio ESIM,Chrome 126.0.0.0,,,22-06-2024 09:47:24,22-06-2024 09:48:28,1m - 3.422s,PASSED
+,,,,,,,
+Test Cases/Registration-ESIM,Chrome 126.0.0.0,,,22-06-2024 09:47:25,22-06-2024 09:47:47,22.692s,PASSED
+openBrowser(URL_Prioritas),Chrome 126.0.0.0,,,22-06-2024 09:47:25,22-06-2024 09:47:29,3.699s,PASSED
+maximizeWindow(),Chrome 126.0.0.0,,,22-06-2024 09:47:29,22-06-2024 09:47:31,2.638s,PASSED
+"OtherKeyword.selectObjectBasedOnIndex(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-secondary""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:47:31,22-06-2024 09:47:34,2.049s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""radio_picker""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:47:34,22-06-2024 09:47:36,2.015s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""price""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:36,22-06-2024 09:47:36,0.562s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:36,22-06-2024 09:47:37,0.639s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""w-100""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:37,22-06-2024 09:47:39,2.132s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""select-square""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:39,22-06-2024 09:47:40,1.001s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""nama_lengkap""]), custName)",Chrome 126.0.0.0,,,22-06-2024 09:47:40,22-06-2024 09:47:41,1.267s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""nomor_hp""]), contactNumber)",Chrome 126.0.0.0,,,22-06-2024 09:47:41,22-06-2024 09:47:42,0.995s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""email""]), email)",Chrome 126.0.0.0,,,22-06-2024 09:47:42,22-06-2024 09:47:43,0.860s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""re_email""]), email)",Chrome 126.0.0.0,,,22-06-2024 09:47:43,22-06-2024 09:47:44,0.865s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:44,22-06-2024 09:47:44,0.471s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""cursor-pointer""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:47:44,22-06-2024 09:47:46,1.176s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""d-flex justify-content-between""]), ""2"")",Chrome 126.0.0.0,,,22-06-2024 09:47:46,22-06-2024 09:47:46,0.598s,PASSED
+"check(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""checkbox""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:46,22-06-2024 09:47:47,0.624s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:47,22-06-2024 09:47:47,0.696s,PASSED
+,,,,,,,
+Test Cases/Registration-ESIM,Chrome 126.0.0.0,,,22-06-2024 09:47:48,22-06-2024 09:48:08,20.697s,PASSED
+openBrowser(URL_Prioritas),Chrome 126.0.0.0,,,22-06-2024 09:47:48,22-06-2024 09:47:50,2.546s,PASSED
+maximizeWindow(),Chrome 126.0.0.0,,,22-06-2024 09:47:50,22-06-2024 09:47:53,2.712s,PASSED
+"OtherKeyword.selectObjectBasedOnIndex(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-secondary""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:47:53,22-06-2024 09:47:55,1.969s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""radio_picker""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:47:55,22-06-2024 09:47:57,2.111s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""price""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:57,22-06-2024 09:47:58,0.596s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:58,22-06-2024 09:47:58,0.605s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""w-100""]))",Chrome 126.0.0.0,,,22-06-2024 09:47:58,22-06-2024 09:48:00,1.483s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""select-square""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:00,22-06-2024 09:48:01,1.255s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""nama_lengkap""]), custName)",Chrome 126.0.0.0,,,22-06-2024 09:48:01,22-06-2024 09:48:02,0.998s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""nomor_hp""]), contactNumber)",Chrome 126.0.0.0,,,22-06-2024 09:48:02,22-06-2024 09:48:03,0.979s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""email""]), email)",Chrome 126.0.0.0,,,22-06-2024 09:48:03,22-06-2024 09:48:04,0.859s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""re_email""]), email)",Chrome 126.0.0.0,,,22-06-2024 09:48:04,22-06-2024 09:48:05,0.846s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:05,22-06-2024 09:48:05,0.513s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""cursor-pointer""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:48:05,22-06-2024 09:48:06,1.312s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""d-flex justify-content-between""]), ""2"")",Chrome 126.0.0.0,,,22-06-2024 09:48:06,22-06-2024 09:48:07,0.572s,PASSED
+"check(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""checkbox""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:07,22-06-2024 09:48:08,0.616s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:08,22-06-2024 09:48:08,0.649s,PASSED
+,,,,,,,
+Test Cases/Registration-ESIM,Chrome 126.0.0.0,,,22-06-2024 09:48:08,22-06-2024 09:48:28,19.575s,PASSED
+openBrowser(URL_Prioritas),Chrome 126.0.0.0,,,22-06-2024 09:48:08,22-06-2024 09:48:12,3.900s,PASSED
+maximizeWindow(),Chrome 126.0.0.0,,,22-06-2024 09:48:12,22-06-2024 09:48:12,0.096s,PASSED
+"OtherKeyword.selectObjectBasedOnIndex(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-secondary""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:48:12,22-06-2024 09:48:14,1.861s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""radio_picker""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:48:14,22-06-2024 09:48:16,2.061s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""price""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:16,22-06-2024 09:48:17,0.662s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:17,22-06-2024 09:48:17,0.614s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""w-100""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:17,22-06-2024 09:48:19,1.417s,PASSED
+"SupportMethod.selectRandomlyListobject(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""select-square""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:19,22-06-2024 09:48:20,1.038s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""nama_lengkap""]), custName)",Chrome 126.0.0.0,,,22-06-2024 09:48:20,22-06-2024 09:48:21,1.013s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""nomor_hp""]), contactNumber)",Chrome 126.0.0.0,,,22-06-2024 09:48:21,22-06-2024 09:48:22,0.992s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""email""]), email)",Chrome 126.0.0.0,,,22-06-2024 09:48:22,22-06-2024 09:48:23,0.824s,PASSED
+"setText(findTestObject(""input"", [""attr"":""@name"", ""val"":""re_email""]), email)",Chrome 126.0.0.0,,,22-06-2024 09:48:23,22-06-2024 09:48:24,0.841s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:24,22-06-2024 09:48:24,0.558s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""cursor-pointer""]), ""1"")",Chrome 126.0.0.0,,,22-06-2024 09:48:24,22-06-2024 09:48:26,1.839s,PASSED
+"Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""d-flex justify-content-between""]), ""2"")",Chrome 126.0.0.0,,,22-06-2024 09:48:26,22-06-2024 09:48:27,0.580s,PASSED
+"check(findTestObject(""div contains"", [""attr"":""@class"", ""val"":""checkbox""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:27,22-06-2024 09:48:27,0.639s,PASSED
+"click(findTestObject(""btn contains"", [""attr"":""@class"", ""val"":""btn-primary""]))",Chrome 126.0.0.0,,,22-06-2024 09:48:27,22-06-2024 09:48:28,0.600s,PASSED

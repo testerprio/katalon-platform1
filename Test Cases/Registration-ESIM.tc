@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Registration-USIM</name>
+   <name>Registration-ESIM</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d5c19aae-d427-44aa-900a-4fe7d6c9e99d</testCaseGuid>
+   <testCaseGuid>131c8443-ee01-49aa-ad65-0ac33138a125</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>03e277d1-424b-49ac-b468-6c08466407b5</id>
+      <id>5db56384-117e-40b6-ab53-e0dd7014627e</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/DataUSIM2</testDataId>
+      <testDataId>Data Files/PrioCustomerEsim</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>03e277d1-424b-49ac-b468-6c08466407b5</testDataLinkId>
+      <testDataLinkId>5db56384-117e-40b6-ab53-e0dd7014627e</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>Name</value>
-      <variableId>08693a1b-ecc7-4e1e-b2b0-8ee2b1bd1398</variableId>
+      <variableId>1abcca44-6182-4d31-88cd-a268e241a59c</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>03e277d1-424b-49ac-b468-6c08466407b5</testDataLinkId>
+      <testDataLinkId>5db56384-117e-40b6-ab53-e0dd7014627e</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>ContactPerson</value>
-      <variableId>80d9adec-3f94-4e06-bce6-ff6f4208ac66</variableId>
+      <value>ContactNumber</value>
+      <variableId>ae218f38-28b8-44e4-abd7-daac5ca756de</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>03e277d1-424b-49ac-b468-6c08466407b5</testDataLinkId>
+      <testDataLinkId>5db56384-117e-40b6-ab53-e0dd7014627e</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>email</value>
-      <variableId>659a8989-6210-449b-8b2b-3d914aa0fe00</variableId>
+      <variableId>7c61fe55-1bc8-4ce8-9578-e3780fe3cbfd</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'nama pelanggan'</defaultValue>
+      <defaultValue>'Sanity esim'</defaultValue>
       <description></description>
-      <id>08693a1b-ecc7-4e1e-b2b0-8ee2b1bd1398</id>
+      <id>1abcca44-6182-4d31-88cd-a268e241a59c</id>
       <masked>false</masked>
       <name>custName</name>
    </variable>
    <variable>
       <defaultValue>'08789234209'</defaultValue>
       <description></description>
-      <id>80d9adec-3f94-4e06-bce6-ff6f4208ac66</id>
+      <id>ae218f38-28b8-44e4-abd7-daac5ca756de</id>
       <masked>false</masked>
       <name>contactNumber</name>
    </variable>
    <variable>
       <defaultValue>'testing@gmail.com'</defaultValue>
       <description></description>
-      <id>659a8989-6210-449b-8b2b-3d914aa0fe00</id>
+      <id>7c61fe55-1bc8-4ce8-9578-e3780fe3cbfd</id>
       <masked>false</masked>
       <name>email</name>
    </variable>

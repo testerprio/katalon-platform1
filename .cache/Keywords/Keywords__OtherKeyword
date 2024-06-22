@@ -33,14 +33,16 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * select webElement based on index\r\n\t * @param testObject list of webElement\r\n\t * @param index \r\n\t * @return select the webElement\r\n\t */"
         },
         {
           "name": "allowAllertPermission",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Allow alert permission\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

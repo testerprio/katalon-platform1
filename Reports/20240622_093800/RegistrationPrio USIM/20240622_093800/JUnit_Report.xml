@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="RegistrationPrio USIM" time="84.064" tests="3" failures="0" errors="0">
+   <testsuite name="RegistrationPrio USIM" tests="3" failures="0" errors="0" time="84.064" skipped="0" timestamp="2024-06-22 09:38:11" hostname="LENOVO - DESKTOP-PAESQ7A" id="Test Suites/RegistrationPrio USIM">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240622_093800\\RegistrationPrio USIM\\20240622_093800"/>
+         <property name="logFiles" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240622_093800\\RegistrationPrio USIM\\20240622_093800\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-PAESQ7A"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.109"/>
+         <property name="sessionId" value="f0f31a86a4b31a84546accd1719c8a4a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Registration-USIM" time="28.94" classname="Test Cases/Registration-USIM" status="PASSED">
+         <system-out><![CDATA[2024-06-22 09:38:11 - [TEST_CASE][PASSED] - Test Cases/Registration-USIM: Test Cases/Registration-USIM
+
+2024-06-22 09:38:12 - [TEST_STEP][PASSED] - openBrowser(URL_Prioritas): Browser is opened with url: 'https://prioritas.xl.co.id/'
+
+2024-06-22 09:38:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-06-22 09:38:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-06-22 09:38:18 - [MESSAGE][PASSED] - Browser is opened with url: 'https://prioritas.xl.co.id/'
+
+2024-06-22 09:38:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-06-22 09:38:18 - [MESSAGE][PASSED] - Current window maximized
+
+2024-06-22 09:38:18 - [TEST_STEP][PASSED] - OtherKeyword.selectObjectBasedOnIndex(findTestObject("btn contains", ["attr":"@class", "val":"btn-secondary"]), "1"): OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:21 - [MESSAGE][PASSED] - OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:21 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"price"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:23 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:23 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:23 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:23 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"w-100"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:25 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:25 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"select-square"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:26 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:26 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"nama_lengkap"]), custName): Text 'Sanityusim one' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:27 - [MESSAGE][PASSED] - Text 'Sanityusim one' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:27 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"nomor_hp"]), contactNumber): Text '087890090432' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:29 - [MESSAGE][PASSED] - Text '087890090432' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:29 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"email"]), email): Text 'test1@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:30 - [MESSAGE][PASSED] - Text 'test1@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:30 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"re_email"]), email): Text 'test1@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:31 - [MESSAGE][PASSED] - Text 'test1@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:31 - [TEST_STEP][PASSED] - OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"cursor-pointer"]), "1"): OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:32 - [MESSAGE][PASSED] - OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:32 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("div contains", ["attr":"@class", "val":"location-list"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:34 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:34 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary    mt"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:35 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:35 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:36 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:36 - [TEST_STEP][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"cursor-pointer"]), "1"): Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:37 - [MESSAGE][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:37 - [TEST_STEP][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"d-flex justify-content-between"]), "2"): Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:38 - [MESSAGE][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:38 - [TEST_STEP][PASSED] - check(findTestObject("div contains", ["attr":"@class", "val":"checkbox"])): Object 'Object Repository/div contains' is checked
+
+2024-06-22 09:38:40 - [MESSAGE][PASSED] - Object 'Object Repository/div contains' is checked
+
+2024-06-22 09:38:40 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:40 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Registration-USIM" time="27.596" classname="Test Cases/Registration-USIM" status="PASSED">
+         <system-out><![CDATA[2024-06-22 09:38:40 - [TEST_CASE][PASSED] - Test Cases/Registration-USIM: Test Cases/Registration-USIM
+
+2024-06-22 09:38:40 - [TEST_STEP][PASSED] - openBrowser(URL_Prioritas): Browser is opened with url: 'https://prioritas.xl.co.id/'
+
+2024-06-22 09:38:40 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-06-22 09:38:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-06-22 09:38:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-06-22 09:38:46 - [MESSAGE][PASSED] - Browser is opened with url: 'https://prioritas.xl.co.id/'
+
+2024-06-22 09:38:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-06-22 09:38:46 - [MESSAGE][PASSED] - Current window maximized
+
+2024-06-22 09:38:46 - [TEST_STEP][PASSED] - OtherKeyword.selectObjectBasedOnIndex(findTestObject("btn contains", ["attr":"@class", "val":"btn-secondary"]), "1"): OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:48 - [MESSAGE][PASSED] - OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:48 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"price"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:50 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:50 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:51 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:38:51 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"w-100"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:52 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:52 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"select-square"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:53 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:38:53 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"nama_lengkap"]), custName): Text 'Sanityusim two' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:54 - [MESSAGE][PASSED] - Text 'Sanityusim two' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:55 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"nomor_hp"]), contactNumber): Text '087890090411' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:56 - [MESSAGE][PASSED] - Text '087890090411' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:56 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"email"]), email): Text 'test2@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:58 - [MESSAGE][PASSED] - Text 'test2@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:58 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"re_email"]), email): Text 'test2@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:59 - [MESSAGE][PASSED] - Text 'test2@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:38:59 - [TEST_STEP][PASSED] - OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"cursor-pointer"]), "1"): OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:59 - [MESSAGE][PASSED] - OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:38:59 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("div contains", ["attr":"@class", "val":"location-list"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:01 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:01 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary    mt"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:03 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:03 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:05 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:05 - [TEST_STEP][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"cursor-pointer"]), "1"): Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:06 - [MESSAGE][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:06 - [TEST_STEP][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"d-flex justify-content-between"]), "2"): Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:07 - [MESSAGE][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:07 - [TEST_STEP][PASSED] - check(findTestObject("div contains", ["attr":"@class", "val":"checkbox"])): Object 'Object Repository/div contains' is checked
+
+2024-06-22 09:39:07 - [MESSAGE][PASSED] - Object 'Object Repository/div contains' is checked
+
+2024-06-22 09:39:07 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:08 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Registration-USIM" time="26.747" classname="Test Cases/Registration-USIM" status="PASSED">
+         <system-out><![CDATA[2024-06-22 09:39:08 - [TEST_CASE][PASSED] - Test Cases/Registration-USIM: Test Cases/Registration-USIM
+
+2024-06-22 09:39:08 - [TEST_STEP][PASSED] - openBrowser(URL_Prioritas): Browser is opened with url: 'https://prioritas.xl.co.id/'
+
+2024-06-22 09:39:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-06-22 09:39:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-06-22 09:39:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-06-22 09:39:14 - [MESSAGE][PASSED] - Browser is opened with url: 'https://prioritas.xl.co.id/'
+
+2024-06-22 09:39:14 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-06-22 09:39:14 - [MESSAGE][PASSED] - Current window maximized
+
+2024-06-22 09:39:14 - [TEST_STEP][PASSED] - OtherKeyword.selectObjectBasedOnIndex(findTestObject("btn contains", ["attr":"@class", "val":"btn-secondary"]), "1"): OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:16 - [MESSAGE][PASSED] - OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:16 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"price"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:18 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:18 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:19 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:19 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"w-100"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:20 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:20 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("btn contains", ["attr":"@class", "val":"select-square"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:21 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:21 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"nama_lengkap"]), custName): Text 'Sanityusim tree' is set on object 'Object Repository/input'
+
+2024-06-22 09:39:23 - [MESSAGE][PASSED] - Text 'Sanityusim tree' is set on object 'Object Repository/input'
+
+2024-06-22 09:39:23 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"nomor_hp"]), contactNumber): Text '08789009042' is set on object 'Object Repository/input'
+
+2024-06-22 09:39:24 - [MESSAGE][PASSED] - Text '08789009042' is set on object 'Object Repository/input'
+
+2024-06-22 09:39:24 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"email"]), email): Text 'test3@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:39:26 - [MESSAGE][PASSED] - Text 'test3@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:39:26 - [TEST_STEP][PASSED] - setText(findTestObject("input", ["attr":"@name", "val":"re_email"]), email): Text 'test3@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:39:27 - [MESSAGE][PASSED] - Text 'test3@gmail.com' is set on object 'Object Repository/input'
+
+2024-06-22 09:39:27 - [TEST_STEP][PASSED] - OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"cursor-pointer"]), "1"): OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:27 - [MESSAGE][PASSED] - OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:27 - [TEST_STEP][PASSED] - SupportMethod.selectRandomlyListobject(findTestObject("div contains", ["attr":"@class", "val":"location-list"])): SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:29 - [MESSAGE][PASSED] - SupportMethod.selectRandomlyListobject is PASSED
+
+2024-06-22 09:39:29 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary    mt"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:30 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:30 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:31 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:31 - [TEST_STEP][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"cursor-pointer"]), "1"): Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:33 - [MESSAGE][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:33 - [TEST_STEP][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex(findTestObject("div contains", ["attr":"@class", "val":"d-flex justify-content-between"]), "2"): Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:34 - [MESSAGE][PASSED] - Keywords.OtherKeyword.selectObjectBasedOnIndex is PASSED
+
+2024-06-22 09:39:34 - [TEST_STEP][PASSED] - check(findTestObject("div contains", ["attr":"@class", "val":"checkbox"])): Object 'Object Repository/div contains' is checked
+
+2024-06-22 09:39:34 - [MESSAGE][PASSED] - Object 'Object Repository/div contains' is checked
+
+2024-06-22 09:39:34 - [TEST_STEP][PASSED] - click(findTestObject("btn contains", ["attr":"@class", "val":"btn-primary"])): Object: 'Object Repository/btn contains' is clicked on
+
+2024-06-22 09:39:35 - [MESSAGE][PASSED] - Object: 'Object Repository/btn contains' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-06-22 09:38:11 - [TEST_SUITE][PASSED] - RegistrationPrio USIM: Test Cases/Registration-USIM]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
