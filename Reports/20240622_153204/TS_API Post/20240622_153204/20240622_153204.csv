@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_API Post,,,,2024-06-22 15:32:18,2024-06-22 15:32:27,9.642s,PASSED
+,,,,,,,
+Test Cases/TC_API Post,,,,2024-06-22 15:32:18,2024-06-22 15:32:23,4.441s,PASSED
+"sendRequestAndVerify(findTestObject(""API/RestfullPost"", [""newName"":nama]))",,,,2024-06-22 15:32:19,2024-06-22 15:32:23,3.946s,PASSED
+,,,,,,,
+Test Cases/TC_API Post,,,,2024-06-22 15:32:23,2024-06-22 15:32:24,1.304s,PASSED
+"sendRequestAndVerify(findTestObject(""API/RestfullPost"", [""newName"":nama]))",,,,2024-06-22 15:32:23,2024-06-22 15:32:24,1.281s,PASSED
+,,,,,,,
+Test Cases/TC_API Post,,,,2024-06-22 15:32:24,2024-06-22 15:32:25,1.151s,PASSED
+"sendRequestAndVerify(findTestObject(""API/RestfullPost"", [""newName"":nama]))",,,,2024-06-22 15:32:24,2024-06-22 15:32:25,1.140s,PASSED
+,,,,,,,
+Test Cases/TC_API Post,,,,2024-06-22 15:32:25,2024-06-22 15:32:26,1.099s,PASSED
+"sendRequestAndVerify(findTestObject(""API/RestfullPost"", [""newName"":nama]))",,,,2024-06-22 15:32:25,2024-06-22 15:32:26,1.089s,PASSED
+,,,,,,,
+Test Cases/TC_API Post,,,,2024-06-22 15:32:26,2024-06-22 15:32:27,1.096s,PASSED
+"sendRequestAndVerify(findTestObject(""API/RestfullPost"", [""newName"":nama]))",,,,2024-06-22 15:32:26,2024-06-22 15:32:27,1.089s,PASSED

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_API" time="3.348" tests="1" failures="0" errors="0">
+   <testsuite name="TS_API" tests="1" failures="0" errors="0" time="3.348" skipped="0" timestamp="2024-06-22 15:06:59" hostname="LENOVO - DESKTOP-PAESQ7A" id="Test Suites/TS_API">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240622_150648\\TS_API\\20240622_150648"/>
+         <property name="logFiles" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240622_150648\\TS_API\\20240622_150648\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-PAESQ7A"/>
+         <property name="hostAddress" value="192.168.0.108"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+      </properties>
+      <testcase name="Test Cases/TC_API Get" time="2.968" classname="Test Cases/TC_API Get" status="PASSED">
+         <system-out><![CDATA[2024-06-22 15:07:00 - [TEST_CASE][PASSED] - Test Cases/TC_API Get: Test Cases/TC_API Get
+
+2024-06-22 15:07:00 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/RestfullGet")): Send request successfully
+
+2024-06-22 15:07:02 - [MESSAGE][INFO] - HAR: E:\- FILE ELVIA\Katalon\PROJECT\katalon-platform1\Reports\20240622_150648\TS_API\20240622_150648\requests\main\0.har
+
+2024-06-22 15:07:03 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-06-22 15:06:59 - [TEST_SUITE][PASSED] - TS_API: Test Cases/TC_API Get]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

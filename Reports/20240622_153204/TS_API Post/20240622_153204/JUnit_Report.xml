@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_API Post" time="9.642" tests="5" failures="0" errors="0">
+   <testsuite name="TS_API Post" tests="5" failures="0" errors="0" time="9.642" skipped="0" timestamp="2024-06-22 15:32:18" hostname="LENOVO - DESKTOP-PAESQ7A" id="Test Suites/TS_API Post">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240622_153204\\TS_API Post\\20240622_153204"/>
+         <property name="logFiles" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240622_153204\\TS_API Post\\20240622_153204\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-PAESQ7A"/>
+         <property name="hostAddress" value="192.168.0.108"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+      </properties>
+      <testcase name="Test Cases/TC_API Post" time="4.441" classname="Test Cases/TC_API Post" status="PASSED">
+         <system-out><![CDATA[2024-06-22 15:32:18 - [TEST_CASE][PASSED] - Test Cases/TC_API Post: Test Cases/TC_API Post
+
+2024-06-22 15:32:19 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("API/RestfullPost", ["newName":nama])): Send request and verify the response successfully
+
+2024-06-22 15:32:22 - [MESSAGE][INFO] - HAR: E:\- FILE ELVIA\Katalon\PROJECT\katalon-platform1\Reports\20240622_153204\TS_API Post\20240622_153204\requests\main\0.har
+
+2024-06-22 15:32:22 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2024-06-22 15:32:22 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2024-06-22 15:32:22 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2024-06-22 15:32:22 - [TEST_STEP][PASSED] - getStatusCode()).isIn(Arrays.asList(200, 201, 202)): null
+
+2024-06-22 15:32:23 - [MESSAGE][PASSED] - Verify response successfully
+
+2024-06-22 15:32:23 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2024-06-22 15:32:23 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_API Post" time="1.304" classname="Test Cases/TC_API Post" status="PASSED">
+         <system-out><![CDATA[2024-06-22 15:32:23 - [TEST_CASE][PASSED] - Test Cases/TC_API Post: Test Cases/TC_API Post
+
+2024-06-22 15:32:23 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("API/RestfullPost", ["newName":nama])): Send request and verify the response successfully
+
+2024-06-22 15:32:24 - [MESSAGE][INFO] - HAR: E:\- FILE ELVIA\Katalon\PROJECT\katalon-platform1\Reports\20240622_153204\TS_API Post\20240622_153204\requests\main\1.har
+
+2024-06-22 15:32:24 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2024-06-22 15:32:24 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2024-06-22 15:32:24 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2024-06-22 15:32:24 - [TEST_STEP][PASSED] - getStatusCode()).isIn(Arrays.asList(200, 201, 202)): null
+
+2024-06-22 15:32:24 - [MESSAGE][PASSED] - Verify response successfully
+
+2024-06-22 15:32:24 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2024-06-22 15:32:24 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_API Post" time="1.151" classname="Test Cases/TC_API Post" status="PASSED">
+         <system-out><![CDATA[2024-06-22 15:32:24 - [TEST_CASE][PASSED] - Test Cases/TC_API Post: Test Cases/TC_API Post
+
+2024-06-22 15:32:24 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("API/RestfullPost", ["newName":nama])): Send request and verify the response successfully
+
+2024-06-22 15:32:25 - [MESSAGE][INFO] - HAR: E:\- FILE ELVIA\Katalon\PROJECT\katalon-platform1\Reports\20240622_153204\TS_API Post\20240622_153204\requests\main\2.har
+
+2024-06-22 15:32:25 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2024-06-22 15:32:25 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2024-06-22 15:32:25 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2024-06-22 15:32:25 - [TEST_STEP][PASSED] - getStatusCode()).isIn(Arrays.asList(200, 201, 202)): null
+
+2024-06-22 15:32:25 - [MESSAGE][PASSED] - Verify response successfully
+
+2024-06-22 15:32:25 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2024-06-22 15:32:25 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_API Post" time="1.099" classname="Test Cases/TC_API Post" status="PASSED">
+         <system-out><![CDATA[2024-06-22 15:32:25 - [TEST_CASE][PASSED] - Test Cases/TC_API Post: Test Cases/TC_API Post
+
+2024-06-22 15:32:25 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("API/RestfullPost", ["newName":nama])): Send request and verify the response successfully
+
+2024-06-22 15:32:26 - [MESSAGE][INFO] - HAR: E:\- FILE ELVIA\Katalon\PROJECT\katalon-platform1\Reports\20240622_153204\TS_API Post\20240622_153204\requests\main\3.har
+
+2024-06-22 15:32:26 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2024-06-22 15:32:26 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2024-06-22 15:32:26 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2024-06-22 15:32:26 - [TEST_STEP][PASSED] - getStatusCode()).isIn(Arrays.asList(200, 201, 202)): null
+
+2024-06-22 15:32:26 - [MESSAGE][PASSED] - Verify response successfully
+
+2024-06-22 15:32:26 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2024-06-22 15:32:26 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_API Post" time="1.096" classname="Test Cases/TC_API Post" status="PASSED">
+         <system-out><![CDATA[2024-06-22 15:32:26 - [TEST_CASE][PASSED] - Test Cases/TC_API Post: Test Cases/TC_API Post
+
+2024-06-22 15:32:26 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("API/RestfullPost", ["newName":nama])): Send request and verify the response successfully
+
+2024-06-22 15:32:27 - [MESSAGE][INFO] - HAR: E:\- FILE ELVIA\Katalon\PROJECT\katalon-platform1\Reports\20240622_153204\TS_API Post\20240622_153204\requests\main\4.har
+
+2024-06-22 15:32:27 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2024-06-22 15:32:27 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2024-06-22 15:32:27 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2024-06-22 15:32:27 - [TEST_STEP][PASSED] - getStatusCode()).isIn(Arrays.asList(200, 201, 202)): null
+
+2024-06-22 15:32:27 - [MESSAGE][PASSED] - Verify response successfully
+
+2024-06-22 15:32:27 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2024-06-22 15:32:27 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-06-22 15:32:18 - [TEST_SUITE][PASSED] - TS_API Post: Test Cases/TC_API Post]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

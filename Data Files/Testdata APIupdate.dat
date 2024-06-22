@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Testdata APIupdate</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>485e8de8-ec9a-45c6-acfb-1737f194bb96</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Farima+Ahmad</data>
+   <data>Kurisalikha</data>
+   <data>Afrisa+Sari</data>
+   <data>Sarminkumin</data>
+   <data>abisyah+ali</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>name</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_API Get,,,,22-06-2024 15:39:53,22-06-2024 15:39:58,5.391s,PASSED
+,,,,,,,
+Test Cases/TC_API Get,,,,22-06-2024 15:39:53,22-06-2024 15:39:58,5.047s,PASSED
+"sendRequestAndVerify(findTestObject(""API/RestfullGet""))",,,,22-06-2024 15:39:54,22-06-2024 15:39:58,4.465s,PASSED

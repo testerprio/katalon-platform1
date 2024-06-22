@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API Post</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c72b2fc9-d943-43f8-921b-92cfd612b4c0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0d51e9a2-d1c5-4e6a-9134-557aa9e37882</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Testdata APIupdate</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>0d51e9a2-d1c5-4e6a-9134-557aa9e37882</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>name</value>
+      <variableId>1f408c5c-ed23-4535-8c7d-177a5d71f3f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f408c5c-ed23-4535-8c7d-177a5d71f3f3</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+</TestCaseEntity>

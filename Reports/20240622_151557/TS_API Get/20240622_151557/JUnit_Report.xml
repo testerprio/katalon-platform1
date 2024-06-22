@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_API Get" time="4.03" tests="1" failures="0" errors="0">
+   <testsuite name="TS_API Get" tests="1" failures="0" errors="0" time="4.03" skipped="0" timestamp="2024-06-22 15:16:12" hostname="LENOVO - DESKTOP-PAESQ7A" id="Test Suites/TS_API Get">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240622_151557\\TS_API Get\\20240622_151557"/>
+         <property name="logFiles" value="E:\\- FILE ELVIA\\Katalon\\PROJECT\\katalon-platform1\\Reports\\20240622_151557\\TS_API Get\\20240622_151557\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-PAESQ7A"/>
+         <property name="hostAddress" value="192.168.0.108"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+      </properties>
+      <testcase name="Test Cases/TC_API Get" time="3.617" classname="Test Cases/TC_API Get" status="PASSED">
+         <system-out><![CDATA[2024-06-22 15:16:12 - [TEST_CASE][PASSED] - Test Cases/TC_API Get: Test Cases/TC_API Get
+
+2024-06-22 15:16:13 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("API/RestfullGet")): Send request and verify the response successfully
+
+2024-06-22 15:16:15 - [MESSAGE][INFO] - HAR: E:\- FILE ELVIA\Katalon\PROJECT\katalon-platform1\Reports\20240622_151557\TS_API Get\20240622_151557\requests\main\0.har
+
+2024-06-22 15:16:15 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+2024-06-22 15:16:16 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+2024-06-22 15:16:16 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+2024-06-22 15:16:16 - [TEST_STEP][PASSED] - verifyResponseStatusCode(response, 200): Verify response status code successfully
+
+2024-06-22 15:16:16 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2024-06-22 15:16:16 - [TEST_STEP][PASSED] - getStatusCode()).isEqualTo(200): null
+
+2024-06-22 15:16:16 - [MESSAGE][PASSED] - Verify response successfully
+
+2024-06-22 15:16:16 - [MESSAGE][PASSED] - All validation steps have been passed
+
+2024-06-22 15:16:16 - [MESSAGE][PASSED] - Send request and verify the response successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-06-22 15:16:12 - [TEST_SUITE][PASSED] - TS_API Get: Test Cases/TC_API Get]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
